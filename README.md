@@ -1,0 +1,1 @@
+Its my first project at Superior University. It is a snake game like we had in Nokia mobile. I have done this with simple concepts like loops, arrays, functions etc. You can choose difficulty either easy or hard. In easy your snake will pass through the wall and emerge form opposite wall but in hard the snake will die if it hits he wall.
