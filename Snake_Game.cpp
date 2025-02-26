@@ -163,6 +163,6 @@ int main() {
         logic();
         Sleep(delayTime);  // Control game speed
     }
-
+    system("pause");
     return 0;
 }
